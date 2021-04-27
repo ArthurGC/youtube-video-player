@@ -39,7 +39,6 @@ From The Odin Project's [curriculum](https://www.theodinproject.com/paths/full-s
 
 * I feel that commits were not regular enough.
 * My commit messages are not perfect.
-* It's not responsive completely. It needs to be improved more.
 
 ## Author
 
